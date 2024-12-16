@@ -1,4 +1,4 @@
-# atividade---FRONTEND---meu-primeiro-componente---Escola-DNC
+# google-clone-frontend
 
 ## Sobre o projeto
 O objetivo desse desafio é recriar a pagina principal do google, dando meus primeiros passos na criação de componentes react, estruturação de pastas e estilizção com module.css
